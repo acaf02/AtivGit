@@ -12,7 +12,7 @@ public class Git {
         return mult;
     }
     public static void main(String[] args) {
-        int num = 5;
+        int num = 6;
         tabuada(num);
     }
     
