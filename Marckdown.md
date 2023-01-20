@@ -79,5 +79,5 @@ _Strong_
 
   [Link para repostorio AtivGit](https://github.com/acaf02/AtivGit.git "Github")
 
-  ![imagem](imagem1.jpg)
+  ![imagem](https://sopacultural.com/wp-content/uploads/2022/01/danca-e1643310597668.jpg)
 
